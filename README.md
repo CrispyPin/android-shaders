@@ -2,7 +2,7 @@
 GLSL shaders made in/for the [Shader Editor app](https://f-droid.org/en/packages/de.markusfisch.android.shadereditor/) on F-Droid ([source](https://github.com/markusfisch/ShaderEditor)).
 
 ### binary_clock.glsl
-Displays hours, minutes and seconds in binary as rows of filled circles.
+Displays hours, minutes and seconds in binary as rows of filled circles. The example below is showing the time `19:15:57`
 
 ![](demo/binary_clock.png)
 
